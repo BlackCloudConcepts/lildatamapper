@@ -2,6 +2,8 @@
 
 - PHP / MySQL data mapping framework
 
+- Working example http://lildatamapper.blackcloudconcepts.com
+
 - Links a PHP class structure to a MySQL table structure using class reflection.  Provides methods to save/insert, update, delete, and load objects from the database.
 
 - index.php has sample code of how to interact with 'Lil Data Mapper

@@ -7,7 +7,8 @@
 	require_once('classes.php');
 ?>
 
-It's a 'Lil Data Mapper!
+It's a 'Lil Data Mapper!<br>
+<a href="https://github.com/BlackCloudConcepts/lildatamapper">'Lil Data Mapper on Github</a>
 <br>
 ========================
 <br><br>
